@@ -262,7 +262,13 @@ section {
 }
 
 /* ABOUT SECTION */
-
+@font-face {
+  font-family: mahmud;
+  src: url(EB_Garamond/EBGaramond-Italic-VariableFont_wght.ttf);
+}
+.text-container{
+  font-family: mahmud;
+}
 #about {
   position: relative;
 }
